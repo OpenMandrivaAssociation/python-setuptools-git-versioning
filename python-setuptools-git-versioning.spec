@@ -2,7 +2,7 @@
 
 Summary:	Use git repo data for building a version number according PEP-440
 Name:		python-%{module}
-Version:	1.13.6
+Version:	2.0.0
 Release:	1
 License:	MIT
 Group:		Development/Python
